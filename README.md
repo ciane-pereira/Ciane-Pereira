@@ -1,4 +1,4 @@
- <!--[Ciane Pereira](https://github.com/ciane-pereira/cianepereira.github.io) / `README.md`-->
+ ![logo_dark](https://github.com/user-attachments/assets/483ebc6b-ab91-41db-81de-4f62b33f109a)[Ciane Pereira](https://ciane-pereira.github.io/cianepereira.github.io/) / `README.md`
 
 ## Hello! I'm Ciane Pereira ✨
 
